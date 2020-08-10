@@ -1,3 +1,23 @@
 *{
 	box-sizing: border-box;
+	margin: 0px;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	text-align: center;
+}
+.container{
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: gray;
+}
+.item{
+	float: right;
+}
+.description{
+	clear: both;
+}
+.i1{
+	background-color: pink;
 }
